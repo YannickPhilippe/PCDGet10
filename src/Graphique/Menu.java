@@ -3,14 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pcdget10.Graphique;
+package Graphique;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import javax.swing.JMenu;
+
 import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
-import pcdget10.Modele.Modele;
+
+import modele.Modele;
 
 /**
  *

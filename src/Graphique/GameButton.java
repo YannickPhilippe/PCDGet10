@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pcdget10.Graphique;
+package Graphique;
 import java.awt.Point;
 import javax.swing.JButton;
 

@@ -3,13 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pcdget10.Graphique;
+package Graphique;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
-import java.awt.HeadlessException;
+
 import javax.swing.JFrame;
-import pcdget10.Modele.Modele;
+
+import modele.Modele;
 
 /**
  * @author philipp38u

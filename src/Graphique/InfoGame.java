@@ -3,13 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pcdget10.Graphique;
+package Graphique;
 
 import java.util.Observable;
 import java.util.Observer;
+
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import pcdget10.Modele.Modele;
+
+import modele.Modele;
 
 /**
  *

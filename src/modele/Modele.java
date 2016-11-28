@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pcdget10.Modele;
+package modele;
 
 import java.awt.Point;
 import java.util.ArrayList;
