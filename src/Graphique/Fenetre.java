@@ -7,10 +7,9 @@ package Graphique;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
-
+import java.awt.HeadlessException;
 import javax.swing.JFrame;
-
-import modele.Modele;
+import Modele.Modele;
 
 /**
  * @author philipp38u
